@@ -10,7 +10,7 @@
   .jost {
     font-family: "Jost", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 800px;
+    font-weight: 300px;
     font-style: normal;
   }
 
@@ -35,9 +35,7 @@
     background-color: #0A2240;
 
 }
-.navButtons {
-    
-}
+
 .headerListIcons {
     width: 50%;
     margin-left: auto;
@@ -71,7 +69,7 @@ li {
     font-style: bold;
     font-size: 23px;
     margin: 25px;
-    font weight: 600;
+    font-weight: 600;
     
 }
 .heroImg {
@@ -91,6 +89,8 @@ p {
 
 button {
     background-color: orange;
+    font-family: 'jost';
+    font-weight: 700;
 }
 
 .footer {
