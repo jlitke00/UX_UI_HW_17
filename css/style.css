@@ -1,0 +1,117 @@
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  .jost {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+  }
+
+.inline-block {
+
+    display: inline-block;
+    vertical-align: center;
+}
+
+ .logo {
+    width: 23%;
+    padding: 1%;
+    height: 112px;
+    
+
+}
+
+
+.navigation {
+    width: 1512px;
+    padding: 1%;
+    background-color: #0A2240;
+
+}
+.navButtons {
+    
+}
+.headerListIcons {
+    width: 50%;
+    margin-left: auto;
+    
+}
+
+.heroBar {
+    background-color: #E07500;
+    width: 1351px;
+    height: 317;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'jost';
+    font-size: 45px;
+    padding: 100px;
+}
+
+h2 {
+    color: white;
+    font-family: 'jost';
+    font-size: 150px;
+    padding: 100px;
+
+}
+li {
+    color: white;
+    font-family: 'open sans';
+    font-style: bold;
+    font-size: 23px;
+    margin: 25px;
+    font weight: 600;
+    
+}
+.heroImg {
+   width: 781px;
+}
+
+.content {
+    width: 1351px;
+    margin: auto;
+}
+
+p {
+    color: black;
+    font-family: 'open sans';
+    font-weight: bold;
+}
+
+button {
+    background-color: orange;
+}
+
+.footer {
+    background-color: #0A2240;
+}
+
+h3 {
+    color: white;
+    font-family: 'open sans';
+    font-size: 23px;
+}
+
+h4 {
+    color: white;
+    font-weight: 700;
+    font-family: 'open sans';
+    align-items: center;
+}
+
+.footerButtons {
+    display: inline-block;
+    vertical-align: top;
+
+}
