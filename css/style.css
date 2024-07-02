@@ -17,11 +17,11 @@
 .inline-block {
 
     display: inline-block;
-    vertical-align: center;
+    
 }
 
  .logo {
-    width: 23%;
+    width: 60%;
     padding: 1%;
     height: 112px;
     
@@ -30,38 +30,59 @@
 
 
 .navigation {
-    width: 1512px;
-    padding: 1%;
+    width: 100%;
+ 
     background-color: #0A2240;
 
 }
 
-.headerListIcons {
-    width: 50%;
-    margin-left: auto;
+
     
-}
+
 
 .heroBar {
     background-color: #E07500;
-    width: 1351px;
-    height: 317;
+    width: 120%;
+   
+    display: table;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 
 h1 {
     color: white;
     font-family: 'jost';
-    font-size: 45px;
-    padding: 100px;
+    font-size: 120px;
+    margin-left: 200px;
+    margin-top: 1px;
+    
+    
 }
 
 h2 {
     color: white;
-    font-family: 'jost';
-    font-size: 150px;
-    padding: 100px;
+    font-family: 'open sans';
+    font-size: 45px;
+    
+    margin-left: 200px;
+    line-height: 1px;
+   
+}
+.heroWords {
+    display: table-cell;
+    
+   
+    
+}
+#myPic {
+    
+    display: table-cell;
+ 
+   
 
+}
+.getConnected {
+    
 }
 li {
     color: white;
@@ -78,23 +99,39 @@ li {
 
 .content {
     width: 1351px;
-    margin: auto;
+    margin-top: 163px;
 }
 
 p {
-    color: black;
+    color: #777777;
     font-family: 'open sans';
-    font-weight: bold;
+    font-weight: 700;
+    margin-left: 200px;
+    font-size: 25.25px;
+    
+    
 }
 
 button {
-    background-color: orange;
+    background-color: #E07500;
     font-family: 'jost';
     font-weight: 700;
+    font-size: 24px;
+    border-radius: 8px;
+    position: absolute;
+    left: 50%;
+    width: 228px;
+    height: 43px;
+    color: white;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 80px;
+
 }
 
 .footer {
     background-color: #0A2240;
+    margin-top: 200px;
+    width: 100%;
 }
 
 h3 {
@@ -107,11 +144,22 @@ h4 {
     color: white;
     font-weight: 700;
     font-family: 'open sans';
-    align-items: center;
+    margin-left: 800px;
+    margin-bottom: 2px;
+   
 }
 
 .footerButtons {
     display: inline-block;
-    vertical-align: top;
+    
 
+}
+.getConnected {
+    margin-left: 1000px;
+}
+#footerSocial {
+    margin-left: 85px;
+}
+#myLogoBottom{
+    margin-left: 30px;
 }
