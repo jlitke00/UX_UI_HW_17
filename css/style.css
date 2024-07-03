@@ -44,8 +44,10 @@
     background-color: #E07500;
     width: 120%;
    
-    display: table;
+    display: flex;
     box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+    
 }
 
 
@@ -69,14 +71,16 @@ h2 {
    
 }
 .heroWords {
-    display: table-cell;
+    
     
    
     
 }
 #myPic {
+    display: flex;
+    align-self: flex-end;
     
-    display: table-cell;
+   
  
    
 
