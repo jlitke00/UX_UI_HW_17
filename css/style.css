@@ -70,12 +70,7 @@ h2 {
     line-height: 1px;
    
 }
-.heroWords {
-    
-    
-   
-    
-}
+
 #myPic {
     display: flex;
     align-self: flex-end;
@@ -85,9 +80,7 @@ h2 {
    
 
 }
-.getConnected {
-    
-}
+
 li {
     color: white;
     font-family: 'open sans';
